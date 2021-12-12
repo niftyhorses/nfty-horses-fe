@@ -8,7 +8,7 @@
   import nekski from '../images/team-nekski.jpg';
   let nekskiTwitter = 'https://twitter.com/Nekski_';
 
-  import randydigital from '../images/team-randydigital.jpg';
+  import randydigital from '../images/team-randydigital.png';
   let randydigitalTwitter = 'https://twitter.com/randydigital_';
 </script>
 
