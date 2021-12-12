@@ -1,5 +1,5 @@
 <script>
-  import HeroImg from '../images/nf1.png';
+  import HeroImg from '../images/NF1.png';
   import SolLogo from '../images/solana-sol-logo-horizontal.svg';
 
   let HighMightyLink = 'https://high-n-mighty.org/';
